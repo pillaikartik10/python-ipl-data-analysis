@@ -9,6 +9,8 @@ numpy, pandas, matplotlib, seaborn, plotly
 
 ## The Project  
   
+The Indian Premier League(IPL) is an annual T-20 cricket league held primarily in India. Attracting the world's best cricketers, it is the sport's premier domestic league competition. Here we take an existing dataset on IPL, and try and analysis it.  
+  
 The available dataset gives us basic information about the 816 IPL matches held between 2008 - 2020, like the teams involved in each match, the toss winner, the toss decision, venue, eventual winner, the manner of victory etc.  
    
 We attempt to find out the following :  
